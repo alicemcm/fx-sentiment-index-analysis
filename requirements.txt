@@ -1,0 +1,8 @@
+python-dotenv
+requests
+beautifulsoup4
+pandas
+vaderSentiment
+spacy
+spacytextblob
+newsapi-python
