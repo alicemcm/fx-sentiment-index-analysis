@@ -6,3 +6,4 @@ vaderSentiment
 spacy
 spacytextblob
 newsapi-python
+matplotlib
