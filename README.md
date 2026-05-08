@@ -16,15 +16,11 @@ The analysis focuses on countries that are frequently discussed in macro-financi
 - Argentina
 - Indonesia and Nigeria are also present in the article database and are used for broader data coverage checks.
 
-The project is written as a data-driven notebook rather than a purely technical script. It combines explanation, plots, summary tables, and modelling-style analysis so that the economic story and the computational workflow can be followed together.
-
 ## Project Output
 
 The submitted blog-style output is:
 
 - [`src/main.ipynb`](src/main.ipynb)
-
-If this project is published on GitHub Pages, HackMD, nbviewer, or another public web platform, the public URL is:
 
 > Public output URL: **add link here**
 
