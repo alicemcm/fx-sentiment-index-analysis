@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+src/main_executed.ipynb
+data/market_prices.csv

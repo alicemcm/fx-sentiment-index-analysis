@@ -1,6 +1,7 @@
 python-dotenv
 requests
 beautifulsoup4
+numpy
 pandas
 vaderSentiment
 spacy
@@ -8,7 +9,9 @@ spacytextblob
 newsapi-python
 matplotlib
 yfinance
-os
-hashlib
 transformers
 torch
+textblob
+jupyter
+nbconvert
+ipykernel
