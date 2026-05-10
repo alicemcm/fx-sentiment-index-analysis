@@ -1,6 +1,6 @@
 # News Sentiment Index Analysis
 
-This repository contains my empirical project for **BEE2041 Data Science in Economics**. The project asks whether financial news sentiment about selected emerging-market economies contains useful information about short-run market movements.
+This repository contains my empirical project for **BEE2041 Data Science in Economics**. In this project I ask whether financial news sentiment about selected late developing economies is correlated to returns for the top performing stock for each country.
 
 The core output is the executed Jupyter notebook at [`src/main.ipynb`](src/main.ipynb). It builds a news article database, scores article sentiment with financial NLP tools, combines the sentiment series with market-return data, and visualises the relationship between news tone and returns.
 
@@ -14,7 +14,7 @@ The analysis focuses on countries that are frequently discussed in macro-financi
 - India
 - Vietnam
 - Argentina
-- Indonesia and Nigeria are also present in the article database and are used for broader data coverage checks.
+- Indonesia and Nigeria are also present in the article database but are not uesed for the project
 
 ## Project Output
 
@@ -22,7 +22,7 @@ The submitted blog-style output is:
 
 - [`src/main.ipynb`](src/main.ipynb)
 
-> Public output URL: **add link here**
+> Public output URL: https://medium.com/@arr.mcmahon/sentiment-shock-do-international-headlines-deflate-animal-spirits-89cecddc386c
 
 ## Repository Structure
 
